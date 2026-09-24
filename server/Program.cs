@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+class Program {
+    static void Main() {
+        Console.WriteLine("Лабораторная работа №4");
+        Console.WriteLine("ФИО: Иванов Иван Иванович");
+    }
+}
